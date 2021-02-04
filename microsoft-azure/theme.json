@@ -5,13 +5,11 @@
         { "tag": "Software System", "background": "#1168bd", "color": "#ffffff" },
         { "tag": "Container", "background": "#438dd5", "color": "#ffffff" },
         { "tag": "Component", "background": "#85bbf0", "color": "#000000" },
-        { "tag": "Person", "background": "#08427b", "color": "#ffffff", "fontSize": 22, "shape": "Person" },
+        { "tag": "Person", "background": "#bbbbbb", "color": "#ffffff" },
         { "tag": "External System", "background": "#999999", "color": "#ffffff" },
-        { "tag": "Bank Staff", "background": "#999999", "color": "#ffffff" },
         { "tag": "Web Browser", "shape": "WebBrowser" },
         { "tag": "Mobile App", "shape": "MobileDeviceLandscape" },
         { "tag": "Database", "shape": "Cylinder" },
-        { "tag": "Failover", "opacity": 25 },
         {
             "tag": "Microsoft Azure - Spatial Anchor",
             "icon": "https://raw.githubusercontent.com/structurizr/themes/master/microsoft-azure/Spatial_Anchor.png"
